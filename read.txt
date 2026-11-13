@@ -1,0 +1,2 @@
+Hello, hope all is well. This is just an initial test file and will contain all major change details as well
+as information about the files I've made. Kind regards.
